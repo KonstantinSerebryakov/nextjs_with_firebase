@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { KEK } from "./firebase";
-console.log(KEK);
 
 export default function Home() {
   return (
